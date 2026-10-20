@@ -1,0 +1,3 @@
+{
+  "functions": { "api/hd.js": { "maxDuration": 60 } }
+}
